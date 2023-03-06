@@ -67,9 +67,10 @@ This project provided great insights into how tuberculosis is spread across the 
 
 ## Challenges 
 - One challenge I had early on was that there were some countries that did not have longitude and latitude values entered. So I had to go online and import them myself.
-- A negative of the dataset I found was that it didn't showcase age and sex of the populations. It would have been nice to have these included as I could have found more trends / patterns. 
 
 ![missing_countries](./images/missing_countries.png)
+
+- A negative of the dataset I found was that it didn't showcase age and sex of the populations. It would have been nice to have these included as I could have found more trends / patterns. 
 
 ## Future Goals
 - Something I would like to do in the future is to compare my analysis and visualizations to the ones found online to see any similarities. This will allow me to correct any mistakes/problems and also to see if my results match up with other analysis too. 
