@@ -1,9 +1,9 @@
 # Final Project Tableau
 
-## Project/Goals
+## Project/Goals 🎯
 The goal of this Tableau project is to explore data visualization tools to gain insights into the prevalence and distribution of tuberculosis across different regions and populations. My aim is to use Tableau's powerful analytics and data visualization capabilities to explore patterns and trends in tuberculosis. I hope to communicate my findings effectively to decision-makers.
 
-## Process
+## Process ⚙️
 
 ### 1. Connecting Tuberculosis Data Within Tableau
 Importing csv file containing one table with all relevant data 
@@ -20,7 +20,7 @@ smallest value in a range, while a high bound is the largest value in the range.
 
 This inital exploratory data analysis (EDA) has given me the necessary understanding to create my visuals in Tableau. 
 
-### 3. Building Visualizations to Learn More about the Tuberculosis Dataset
+### 3. Building Visualizations to Learn More about the Tuberculosis Dataset 📈
 Made 10 different visualization sheets in Tableau:
 
 - "TB MAP" which shows the mortalities in each country/region with total population. 
@@ -38,7 +38,7 @@ Here is the Dashboard Summary:
 
 ![dashboard](./images/dashboard.png)
 
-### 4. Most Important Features of the Tuberculosis Dataset
+### 4. Most Important Features of the Tuberculosis Dataset❗
 When doing the EDA of the tuberculosis dataset, I found the most important features to be (in no particular order):
 
 - Country / Territory: Essential feature all in of the visualizations to help understand the distribution of data for the countries.
@@ -51,7 +51,7 @@ When doing the EDA of the tuberculosis dataset, I found the most important featu
 
 These features all show important visualizations in the trend of Tuberculosis. They also help us answer the question of whether there is a correlation between detection and mortality rates on a country by country basis. 
 
-### 5. Interesting pattern, trend, outlier, etc. from the data used in the above steps.
+### 5. Interesting pattern, trend, outlier, etc. from the data used in the above steps 🧩
 Firstly, from the map visualization it is easy to see that the highest concentration of TB mortalities are in Africa. With the most in the Central African Republic. Luckily, the detection rates by countries have been going up as seen on the "TB AVG Detection Rate in Countries by Year" sheet. This is a good trend to see in regards to TB.
 
 The mortality rates in African can also be seen as an outlier since most of the world has much lower rates. I believe this is mostly due to the fact that the health systems in Africa are very weak. 
@@ -60,17 +60,17 @@ Another important visualization was the "TB Linear Regression - Mortality to Det
 
 Further trends and patterns can be spotted in the Tableau workbook provided with the rest of the sheets and dashboards.
 
-## Results
+## Results 📊
 After building my visualizations in Tableau and learning the trends and patterns of the data I concluded that there is a correlation between detection and mortality rates on a country by country basis. As explained in the presentation speaker notes which is in this repository, the line graphs, bar charts, and linear regression charts all helped in this decision. 
 
 This project provided great insights into how tuberculosis is spread across the world and its changes over time.
 
-## Challenges 
+## Challenges 🚧
 - One challenge I had early on was that there were some countries that did not have longitude and latitude values entered. So I had to go online and import them myself.
 
 ![missing_countries](./images/missing_countries.png)
 
 - A negative of the dataset I found was that it didn't showcase age and sex of the populations. It would have been nice to have these included as I could have found more trends / patterns. 
 
-## Future Goals
+## Future Goals 💡
 - Something I would like to do in the future is to compare my analysis and visualizations to the ones found online to see any similarities. This will allow me to correct any mistakes/problems and also to see if my results match up with other analysis too. 
