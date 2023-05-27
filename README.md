@@ -1,4 +1,4 @@
-# Final Project Tableau
+# Distribution of Tuberculosis with Tableau
 
 ## Project/Goals 🎯
 The goal of this Tableau project is to explore data visualization tools to gain insights into the prevalence and distribution of tuberculosis across different regions and populations. My aim is to use Tableau's powerful analytics and data visualization capabilities to explore patterns and trends in tuberculosis. I hope to communicate my findings effectively to decision-makers.
